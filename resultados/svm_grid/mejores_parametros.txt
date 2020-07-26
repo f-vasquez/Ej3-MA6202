@@ -1,0 +1,1 @@
+{'SVM__C': 10, 'SVM__kernel': 'rbf'}
